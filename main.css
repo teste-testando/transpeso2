@@ -556,6 +556,7 @@ text-align: center;
 .texto-guindaste p{
     font-size: 1.6em;
     color: white;
+    font-weight: bold;
 }
 .guindaste-equip{
     margin-top: 10px;
