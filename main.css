@@ -181,6 +181,12 @@ max-width: auto;
     .conteiner-fundo{
         background-color: #ff8932;
         width: 88%;
+        height: 1520px;
+        
+    }
+    .conteiner-fundo2{
+        background-color: #ff8932;
+        width: 88%;
         height: 1280px;
         
     }
